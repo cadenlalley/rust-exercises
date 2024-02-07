@@ -8,3 +8,4 @@ and the borrow checker first.
 
 ## Sources:
 [Akhil Sharma](https://www.youtube.com/@AkhilSharmaTech)
+[Tensor Programming](https://www.youtube.com/@TensorProgramming)
